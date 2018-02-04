@@ -1,0 +1,39 @@
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Yuuto_VPA(Virtual Private Assistant).exe.config
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Yuuto_VPA(Virtual Private Assistant).exe
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Yuuto_VPA(Virtual Private Assistant).pdb
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\InputSimulator.dll
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Mail.dll
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\MetroFramework.Design.dll
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\MetroFramework.dll
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\InputSimulator.pdb
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\InputSimulator.xml
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Mail.xml
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA(Virtual Private Assistant).csprojResolveAssemblyReference.cache
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA_Virtual_Private_Assistant_.Getdataformail.resources
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA_Virtual_Private_Assistant_.Main_Class.resources
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA_Virtual_Private_Assistant_.Properties.Resources.resources
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA(Virtual Private Assistant).csproj.GenerateResource.Cache
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA(Virtual Private Assistant).exe
+C:\Users\meenachinmay\documents\visual studio 2013\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA(Virtual Private Assistant).pdb
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Yuuto_VPA(Virtual Private Assistant).exe.config
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Yuuto_VPA(Virtual Private Assistant).exe
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Yuuto_VPA(Virtual Private Assistant).pdb
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Mail.dll
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\MetroFramework.Design.dll
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\MetroFramework.dll
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Mail.xml
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA(Virtual Private Assistant).csprojResolveAssemblyReference.cache
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA_Virtual_Private_Assistant_.Alert_Notification.resources
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA_Virtual_Private_Assistant_.Getdataformail.resources
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA_Virtual_Private_Assistant_.Main_Class.resources
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA_Virtual_Private_Assistant_.Properties.Resources.resources
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA_Virtual_Private_Assistant_.Weather_information.resources
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA(Virtual Private Assistant).csproj.GenerateResource.Cache
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA(Virtual Private Assistant).csproj.CoreCompileInputs.cache
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA(Virtual Private Assistant).exe
+C:\Users\meena\Documents\Visual Studio 2017\Projects\Yuuto_VPA(Virtual Private Assistant)\Yuuto_VPA(Virtual Private Assistant)\obj\Debug\Yuuto_VPA(Virtual Private Assistant).pdb
